@@ -1,3 +1,4 @@
+<p>Русская версия находится в файле README.ru.md.</p>
 <h1>Creating custom taxonomies and post types in WordPress</h1>
 <h2>Description</h2>
 <p>Custom taxonomies and post types allow to create on WordPress fairly complex projects. On simple example to show their implementation in theme.</p>
